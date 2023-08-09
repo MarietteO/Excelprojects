@@ -13,6 +13,8 @@
 7. Customizing the Excel Quick Access Toolbar<br>
 <i>- If there is a command on the ribbon that you use often, you can right-click on it and: Add to Quick Access Toolbar</i><br>
 8. More on the Excel Interface<br>
+<i>- Right at the bottom of the screen, we have the "status bar".</i><br>
+<i>- At the bottom right are the "view buttons".</i><br>
 9. Understanding the Structure of an Excel Workbook<br>
 10. Saving an Excel Document<br>
 11. Opening an Existing Excel Document<br>
