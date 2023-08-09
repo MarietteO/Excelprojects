@@ -8,6 +8,8 @@
 5. Microsoft Excel Startup Screen<br>
 <i>- The starting interface is referred to as the "splash screen".</i><br>
 6. Introduction to the Excel Interface<br>
+<i>- Below the ribbon is the "formula bar", including the "name box" on the left. To turn it off/on, go to the View tab.</i><br>
+<i>- Double-click any tab on the ribbon to minimize (or reopen) the ribbon.</i><br>
 7. Customizing the Excel Quick Access Toolbar<br>
 8. More on the Excel Interface<br>
 9. Understanding the Structure of an Excel Workbook<br>
