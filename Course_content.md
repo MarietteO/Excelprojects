@@ -11,4 +11,5 @@
 - If there is a command on the ribbon that you use often, you can right-click on it and: Add to Quick Access Toolbar.<br>
 - Right at the bottom of the screen, we have the "status bar".<br>
 - At the bottom right are the "view buttons".<br>
+- Can save the document as one of several different types, but the default is as an Excel Workbook(.xlsx).<br>
 
