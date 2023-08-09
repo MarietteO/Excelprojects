@@ -12,4 +12,18 @@
 - Right at the bottom of the screen, we have the "status bar".<br>
 - At the bottom right are the "view buttons".<br>
 - Can save the document as one of several different types, but the default is as an Excel Workbook(.xlsx).<br>
+- <b>Common Excel Shortcut Keys:</b><br>
+Close a spreadsheet Ctrl+W<br>
+Open a spreadsheet Ctrl+O<br>
+Go to the Home tab Alt+H<br>
+Go to Insert tab Alt+N <br>
+Go to Page Layout tab Alt+P<br>
+Go to Formula tab Alt+M<br>
+Go to Data tab Alt+A<br>
+Go to View tab Alt+W<br>
+Open context menu Shift+F10<br>
+Hide the selected rows Ctrl+9<br>
+Hide the selected columns Ctrl+0<br>
+Move to the previous cell in a worksheet Shift+Tab<br>
+Move to the edge of the current data region in a worksheet. Ctrl+arrow key
 
