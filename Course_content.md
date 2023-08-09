@@ -11,6 +11,7 @@
 <i>- Below the ribbon is the "formula bar", including the "name box" on the left. To turn it off/on, go to the View tab.</i><br>
 <i>- Double-click any tab on the ribbon to minimize (or reopen) the ribbon.</i><br>
 7. Customizing the Excel Quick Access Toolbar<br>
+<i>- If there is a command on the ribbon that you use often, you can right-click on it and: Add to Quick Access Toolbar</i><br>
 8. More on the Excel Interface<br>
 9. Understanding the Structure of an Excel Workbook<br>
 10. Saving an Excel Document<br>
