@@ -28,6 +28,14 @@ Move to the previous cell in a worksheet Shift+Tab<br>
 Move to the edge of the current data region in a worksheet. Ctrl+arrow key<br>
 Move to the next sheet in a workbook. Ctrl+Page Down<br>
 Move one screen to the right in a worksheet. Alt+Page Down<br>
+<p></p>
+<h3>Section 3: Entering and Editing Text and Formulas</h3>
+- If you ever import data or copy paste data from some other system into an Excel<br>
+document, you might see your numeric values left aligned. Typically, you will then<br>
+get a little green triangle inside the corner of those cells. You can click into one of<br>
+those cells. At that little triangle in the corner, you will get a little box. And when<br>
+you click the box, it'll come up with some options. And one of them will be: convert to numbers.
+
 
 
 
