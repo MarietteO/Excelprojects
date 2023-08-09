@@ -25,5 +25,9 @@ Open context menu Shift+F10<br>
 Hide the selected rows Ctrl+9<br>
 Hide the selected columns Ctrl+0<br>
 Move to the previous cell in a worksheet Shift+Tab<br>
-Move to the edge of the current data region in a worksheet. Ctrl+arrow key
+Move to the edge of the current data region in a worksheet. Ctrl+arrow key<br>
+Move to the next sheet in a workbook. Ctrl+Page Down<br>
+Move one screen to the right in a worksheet. Alt+Page Down<br>
+
+
 
