@@ -34,7 +34,16 @@ Move one screen to the right in a worksheet. Alt+Page Down<br>
 document, you might see your numeric values left aligned. Typically, you will then<br>
 get a little green triangle inside the corner of those cells. You can click into one of<br>
 those cells. At that little triangle in the corner, you will get a little box. And when<br>
-you click the box, it'll come up with some options. And one of them will be: convert to numbers.
+you click the box, it'll come up with some options. And one of them will be: convert to numbers.<br>
+- To customize date formats:<br>
+Select relevant cells<br>
+Home Tab -> Number Section<br>
+Click on Dropdown Menu<br>
+Click on More Number Formats<br>
+Under 'Category', select 'Custom'<br>
+Type (for example): mmm-yyyy (This will give Jan-2023)<br>
+
+
 
 
 
