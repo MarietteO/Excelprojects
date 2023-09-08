@@ -42,6 +42,12 @@ Click on Dropdown Menu<br>
 Click on More Number Formats<br>
 Under 'Category', select 'Custom'<br>
 Type (for example): mmm-yyyy (This will give Jan-2023)<br>
+- Use Ctrl to select non-contiguous cells<br>
+- RELATIVE REFERENCES:<br>
+Once you've added up one column, you can copy&paste the solution into another column to similarly add that one with same number of cells, similarly positioned.<br>
+- ABSOLUTE REFERENCES:<br>
+Formula not able to be copied as above. Used if you always want to reference the same cell as part of different calculations (for example). Put a dollar sign before the reference. E.g. E4/$E$9. <br>
+t.b.c. @ 3.19
 
 
 
