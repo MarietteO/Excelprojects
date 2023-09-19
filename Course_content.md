@@ -47,7 +47,10 @@ Type (for example): mmm-yyyy (This will give Jan-2023)<br>
 Once you've added up one column, you can copy&paste the solution into another column to similarly add that one with same number of cells, similarly positioned.<br>
 - ABSOLUTE REFERENCES:<br>
 Formula not able to be copied as above. Used if you always want to reference the same cell as part of different calculations (for example). Put a dollar sign before the reference. E.g. E4/$E$9. <br>
-t.b.c. @ 3.19
+- ORDER OF OPERATIONS:<br> 
+(Have a cell selected, then click on) Formulas Tab -> Formula Auditing section -> Evaluate Formula<br>
+to evaluate cell's formula. Click "Evaluate" to see a step-by-step evaluation of the order in which the formula will be executed<br>
+t.b.c. @ 4.20
 
 
 
