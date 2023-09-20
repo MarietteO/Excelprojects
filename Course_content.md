@@ -50,7 +50,20 @@ Formula not able to be copied as above. Used if you always want to reference the
 - ORDER OF OPERATIONS:<br> 
 (Have a cell selected, then click on) Formulas Tab -> Formula Auditing section -> Evaluate Formula<br>
 to evaluate cell's formula. Click "Evaluate" to see a step-by-step evaluation of the order in which the formula will be executed<br>
-t.b.c. @ 4.20
+<h3>Section 4: Working with Basic Excel Functions</h3>
+- THE STRUCTURE OF AN EXCEL FUNCTION:<br>
+= FUNCTION NAME (ARGUMENTS/PARAMETERS), e.g. =SUM(B4:B8) [i.e. 4 through 8]<br>
+* The Function Arguments Window:<br>
+To open, click on fx button left of the formula bar<br>
+Here, you will find description of what a particular function does.<br>
+* Formulas Tab -> Function Library<br>
+- EXCEL ERRORS:<br>
+* #DIV/0! Divide by zero error<br>
+- WORKING WITH THE SUM() FUNCTION:<br>
+Formulas Tab -> Function Library -> Math & Trig -> SUM -> Opens up Function Arguments Window<br>
+Number 1 B4:B8<br>
+t.b.c. 4.22
+
 
 
 
