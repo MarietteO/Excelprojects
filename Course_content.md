@@ -62,7 +62,12 @@ Here, you will find description of what a particular function does.<br>
 - WORKING WITH THE SUM() FUNCTION:<br>
 Formulas Tab -> Function Library -> Math & Trig -> SUM -> Opens up Function Arguments Window<br>
 Number 1 B4:B8<br>
-t.b.c. 4.22
+- WORKING WITH THE MIN() AND MAX() FUNCTIONS:<br>
+Formulas Tab -> Function Library -> More Functions -> Statistical<br>
+OR if you click on fx (Insert Function Button) just underneath Function Library, it opens Insert Function Window<br>
+where you can search for a function and also see suggested functions.<br>
+If you click okay, it opens up the Function Arguments Window (see SUM() function above)<br>
+t.b.c. 4.23
 
 
 
