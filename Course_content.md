@@ -59,19 +59,23 @@ Here, you will find description of what a particular function does.<br>
 * Formulas Tab -> Function Library<br>
 - EXCEL ERRORS:<br>
 * #DIV/0! Divide by zero error<br>
-- WORKING WITH THE SUM() FUNCTION:<br>
+- SUM() FUNCTION:<br>
 Formulas Tab -> Function Library -> Math & Trig -> SUM -> Opens up Function Arguments Window<br>
 Number 1 B4:B8<br>
-- WORKING WITH THE MIN() AND MAX() FUNCTIONS:<br>
+- MIN() AND MAX() FUNCTIONS:<br>
 Formulas Tab -> Function Library -> More Functions -> Statistical<br>
 OR if you click on fx (Insert Function Button) just underneath Function Library, it opens Insert Function Window<br>
 where you can search for a function and also see suggested functions.<br>
 If you click okay, it opens up the Function Arguments Window (see SUM() function above)<br>
 OR on Formulas tab, far left: Insert Function<br>
-- WORKING WITH THE AVERAGE FUNCTION:<br>
+- AVERAGE FUNCTION:<br>
 Formulas Tab -> Function Library -> More Functions -> Statistical<br>
+- COUNT FUNCTION<br>
+Also under "Statistical".<br>
+Counts numeric values (doesn't count empty cells or text values).<br>
+Will not show an error, will only skip over non-numeric values.<br>
 
-t.b.c. 4.24
+t.b.c. 4.25
 
 
 
