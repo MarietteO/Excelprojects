@@ -59,6 +59,12 @@ Here, you will find description of what a particular function does.<br>
 * Formulas Tab -> Function Library<br>
 - EXCEL ERRORS:<br>
 * #DIV/0! Divide by zero error<br>
+* Adjacent cells error: Little green triangle in top left corner of cell. If you click on one of those triangles,<br>
+a little diamond with an exclamation mark inside pops up. If you click on the diamond, it says "Formula omits adjacent<br>
+cells", and you get the option to "update formula to include cells". This happens because Excel sees, for example,<br>
+your header at the top of the column which is a date, and thinks wait, that's a number too. It's Excel trying to be<br>
+helpful. So just click on the diamond and choose "Ignore error". Better, select all the cells with green triangle and<br>
+choose "Ignore error" for all simultaneously.<br>
 - SUM() FUNCTION:<br>
 Formulas Tab -> Function Library -> Math & Trig -> SUM -> Opens up Function Arguments Window<br>
 Number 1 B4:B8<br>
@@ -75,7 +81,7 @@ Also under "Statistical".<br>
 Counts numeric values (doesn't count empty cells or text values).<br>
 Will not show an error, will only skip over non-numeric values.<br>
 
-t.b.c. 4.25
+t.b.c. 4.26
 
 
 
