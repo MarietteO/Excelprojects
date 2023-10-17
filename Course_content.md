@@ -67,7 +67,11 @@ Formulas Tab -> Function Library -> More Functions -> Statistical<br>
 OR if you click on fx (Insert Function Button) just underneath Function Library, it opens Insert Function Window<br>
 where you can search for a function and also see suggested functions.<br>
 If you click okay, it opens up the Function Arguments Window (see SUM() function above)<br>
-t.b.c. 4.23
+OR on Formulas tab, far left: Insert Function<br>
+- WORKING WITH THE AVERAGE FUNCTION:<br>
+Formulas Tab -> Function Library -> More Functions -> Statistical<br>
+
+t.b.c. 4.24
 
 
 
