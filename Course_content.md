@@ -80,8 +80,14 @@ Formulas Tab -> Function Library -> More Functions -> Statistical<br>
 Also under "Statistical".<br>
 Counts numeric values (doesn't count empty cells or text values).<br>
 Will not show an error, will only skip over non-numeric values.<br>
+-AUTOSUM COMMAND<br>
+Click in the "Total" cell, click on autosum (under Formulas tab) and press Enter to sum up your column automatically.<br>
+You can even select a range of "Total" cells and sum up their columns simultaneously.<br>
+Just check that it selects the correct range of cells to sum up.<br>
+If not, click and drag the correct range of cells.<br>
+The down arrow at the bottom of the AutoSum button provides quick access to other functions such as AVERAGE, COUNT etc.<br>
 
-t.b.c. 4.26
+t.b.c. 4.27
 
 
 
