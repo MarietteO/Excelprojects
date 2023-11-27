@@ -86,9 +86,12 @@ You can even select a range of "Total" cells and sum up their columns simultaneo
 Just check that it selects the correct range of cells to sum up.<br>
 If not, click and drag the correct range of cells.<br>
 The down arrow at the bottom of the AutoSum button provides quick access to other functions such as AVERAGE, COUNT etc.<br>
-AutoSum keyboard shortcut: alt and =
-
-t.b.c. 4.28
+AutoSum keyboard shortcut: alt and =<br>
+-USING THE AUTOFILL COMMAND TO COPY FORMULAS<br>
+The Autofill is the little dot at the bottom right of a cell that you have already populated with a formula. If you move<br>
+your cursor over the top of that, you get a black plus sign. Now, if you click and hold down, you can drag it over other<br>
+cells where you want to execute the same formula using relative referencing.<br>
+t.b.c. section 5
 
 
 
