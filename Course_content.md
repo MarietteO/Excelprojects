@@ -86,8 +86,9 @@ You can even select a range of "Total" cells and sum up their columns simultaneo
 Just check that it selects the correct range of cells to sum up.<br>
 If not, click and drag the correct range of cells.<br>
 The down arrow at the bottom of the AutoSum button provides quick access to other functions such as AVERAGE, COUNT etc.<br>
+AutoSum keyboard shortcut: alt and =
 
-t.b.c. 4.27
+t.b.c. 4.28
 
 
 
