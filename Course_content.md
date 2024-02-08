@@ -91,9 +91,19 @@ AutoSum keyboard shortcut: alt and =<br>
 The Autofill is the little dot at the bottom right of a cell that you have already populated with a formula. If you move<br>
 your cursor over the top of that, you get a black plus sign. Now, if you click and hold down, you can drag it over other<br>
 cells where you want to execute the same formula using relative referencing.<br>
-t.b.c. section 5
-
-
+<h3>Section 5: Modifying an Excel Worksheet</h3><br>
+<b>To move cells:</b> Select cells, move cursor to the border so that it turns into a cross, then left-click, hold down<br>
+and drag to selected position.<br>
+<b>To insert row:</b> Click on row nr on the left to select entire row. Ctrl+shift+plus will insert new row above.<br>
+You can also insert new column this way.<br>
+<b>To change height of cells:</b> Drag row lines</br>
+<b>To autofit the width of multiple columns or height of multiple rows:</b><br>
+Select your columns/rows, then autofit any one of them.<br>
+<b>To hide rows/columns:</b> R-click on column/row name, then select Hide. To unhide, you can drag it back out or<br>
+r-click -> unhide</br>
+<b>To hide column names(alphabet) and row nrs:</b> View tab -> Show -> 4 checkmarks -> uncheck the option for Headings<br>
+<b>Deleting a worksheet:</b>Can't be undone using Ctrl+z. To delete: R-click on worksheet name, choose Delete.<br>
+Start at 35<br>
 
 
 
