@@ -104,8 +104,12 @@ r-click -> unhide</br>
 <b>To hide column names(alphabet) and row nrs:</b> View tab -> Show -> 4 checkmarks -> uncheck the option for Headings<br>
 <b>Deleting a worksheet:</b>Can't be undone using Ctrl+z. To delete: R-click on worksheet name, choose Delete.<br>
 <b>Copying a sheet within a workbook:</b> Select tab at bottom and drag to where you want it while holding in Ctrl.</br>
-<b>To move/copy a sheet to another workbook: Right-click --> Move or Copy</b> 
-Start at 36<br>
+<b>To move/copy a sheet to another workbook: Right-click --> Move or Copy</br> 
+<h3>Section 6: Formatting Data in an Excel Worksheet</h3><br>
+<b>Working with font formatting commands:</b> Under Home tab -> Font section: The icon that looks like a window has to do with borders. And at the bottom right, you've got a little icon in the corner, a little right angle and arrow, which will open up the Format Cells window for some more advanced formatting options.<br>
+The colours are broken up into Theme Colors and Standard Colors. You can change the Theme under Page Layout -> Themes<br>
+
+Start at 37<br>
 
 
 
