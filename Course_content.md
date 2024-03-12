@@ -106,10 +106,10 @@ r-click -> unhide</br>
 <b>Copying a sheet within a workbook:</b> Select tab at bottom and drag to where you want it while holding in Ctrl.</br>
 <b>To move/copy a sheet to another workbook:</b> Right-click --> Move or Copy</br> 
 <h3>Section 6: Formatting Data in an Excel Worksheet</h3><br>
-<b>Working with font formatting commands:</b> Under Home tab -> Font section: The icon that looks like a window has to do with borders. And at the bottom right, you've got a little icon in the corner, a little right angle and arrow, which will open up the Format Cells window for some more advanced formatting options.<br>
+<b>Working with font formatting commands:</b> Under Home tab -> Font section: The icon that looks like a window has to do with borders.(Arrow next to it opens options.) And at the bottom right, you've got a little icon in the corner, a little right angle and arrow, which will open up the Format Cells window for some more advanced formatting options.<br>
 The colours are broken up into Theme Colors and Standard Colors. You can change the Theme under Page Layout -> Themes<br>
-
-<i>#TODOStart at 37</i><br>
+<b>Excel cell borders continued:</b> At the bottom of borders options, "More options" opens the Format Cells window. Here, once you've made your selection, you need to click on the Preview box to solidify your formatting. Then click okay.<br>
+<i>#TODOStart at 40</i><br>
 
 
 
