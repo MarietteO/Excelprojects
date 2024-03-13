@@ -109,7 +109,11 @@ r-click -> unhide</br>
 <b>Working with font formatting commands:</b> Under Home tab -> Font section: The icon that looks like a window has to do with borders.(Arrow next to it opens options.) And at the bottom right, you've got a little icon in the corner, a little right angle and arrow, which will open up the Format Cells window for some more advanced formatting options.<br>
 The colours are broken up into Theme Colors and Standard Colors. You can change the Theme under Page Layout -> Themes<br>
 <b>Excel cell borders continued:</b> At the bottom of borders options, "More options" opens the Format Cells window. Here, once you've made your selection, you need to click on the Preview box to solidify your formatting. Then click okay.<br>
-<i>#TODOStart at 40</i><br>
+<b>Formatting data as currency values:</b> Select your cells. Then: Home tab -> Number -> Click on arrow next to dollar sign to select your currency, eg. dollar. You can format just the first and last row as currency to make it look neat. Click on the comma (in the Number section) to remove the dollar signs.<br> 
+<b>Formatting percentages</b> will round for you. You can use the two icons right of the comma on the Numbers section to add/remove decimals in your percentage.<br>
+<b>Using Excel's Format Painter:</b> Under Home -> Clipboard. You can also use it to copy formatting to another sheet in the same workbook. A single click allows you to use Format Painter once. A double click means it will remain active until I click on the Format Painter again or hit Esc.<br>
+<b>Creating Styles to Format Data:</b> A Cell Style is saved formatting. tbc
+<i>#TODOStart at 43</i><br>
 
 
 
