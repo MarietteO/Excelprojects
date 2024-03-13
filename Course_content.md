@@ -112,8 +112,8 @@ The colours are broken up into Theme Colors and Standard Colors. You can change 
 <b>Formatting data as currency values:</b> Select your cells. Then: Home tab -> Number -> Click on arrow next to dollar sign to select your currency, eg. dollar. You can format just the first and last row as currency to make it look neat. Click on the comma (in the Number section) to remove the dollar signs.<br> 
 <b>Formatting percentages</b> will round for you. You can use the two icons right of the comma on the Numbers section to add/remove decimals in your percentage.<br>
 <b>Using Excel's Format Painter:</b> Under Home -> Clipboard. You can also use it to copy formatting to another sheet in the same workbook. A single click allows you to use Format Painter once. A double click means it will remain active until I click on the Format Painter again or hit Esc.<br>
-<b>Creating Styles to Format Data:</b> A Cell Style is saved formatting. tbc
-<i>#TODOStart at 43</i><br>
+<b>Creating Styles to Format Data:</b> A Cell Style is saved formatting. Updating the style will update all the cells using that style. Home -> Styles -> Cell Styles. You can use any of the suggested ones or click on New Cell Style to open up the Style window. Here, unclick "Number" if you don't want all your cells formatted as numbers. Now click on Format (inside Style Window) to apply some formatting to your new style. After creating it, go back to Cell Styles to apply your new style. 
+<i>#TODO Start at 44</i><br>
 
 
 
