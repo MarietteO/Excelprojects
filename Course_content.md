@@ -116,7 +116,9 @@ The colours are broken up into Theme Colors and Standard Colors. You can change 
 <b>Merging and centering cells:</b>Highlight the cells you want to merge -> Home Tab -> Alignment -> Merge & Center<br>
 <b>Conditional Formatting:</b> For example: I want a cell to turn red if it's above $500 (or some other condition). Select relevant selection of cells -> Home Tab -> Styles -> Conditional Formatting -> Highlight Cell Rules<br>
 <b>Editing Excel Conditional Formatting:</b> Conditional Formatting -> Manage Rules<br>
-<i>#TODO Start at 47</i><br>
+<h3>Section 7: Inserting Images and Shapes into an Excel Worksheet</h3><br>
+<b>Inserting Images or Excel Shapes:</b>Insert -> Illustrations. (Left click and drag in cell to drop your shape.)<br>
+<i>#TODO Start at 49</i><br>
 
 
 
