@@ -113,7 +113,10 @@ The colours are broken up into Theme Colors and Standard Colors. You can change 
 <b>Formatting percentages</b> will round for you. You can use the two icons right of the comma on the Numbers section to add/remove decimals in your percentage.<br>
 <b>Using Excel's Format Painter:</b> Under Home -> Clipboard. You can also use it to copy formatting to another sheet in the same workbook. A single click allows you to use Format Painter once. A double click means it will remain active until I click on the Format Painter again or hit Esc.<br>
 <b>Creating Styles to Format Data:</b> A Cell Style is saved formatting. Updating the style will update all the cells using that style. Home -> Styles -> Cell Styles. You can use any of the suggested ones or click on New Cell Style to open up the Style window. Here, unclick "Number" if you don't want all your cells formatted as numbers. Now click on Format (inside Style Window) to apply some formatting to your new style. After creating it, go back to Cell Styles to apply your new style. 
-<i>#TODO Start at 44</i><br>
+<b>Merging and centering cells:</b>Highlight the cells you want to merge -> Home Tab -> Alignment -> Merge & Center<br>
+<b>Conditional Formatting:</b> For example: I want a cell to turn red if it's above $500 (or some other condition). Select relevant selection of cells -> Home Tab -> Styles -> Conditional Formatting -> Highlight Cell Rules<br>
+<b>Editing Excel Conditional Formatting:</b> Conditional Formatting -> Manage Rules<br>
+<i>#TODO Start at 47</i><br>
 
 
 
