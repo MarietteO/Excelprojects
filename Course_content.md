@@ -117,8 +117,14 @@ The colours are broken up into Theme Colors and Standard Colors. You can change 
 <b>Conditional Formatting:</b> For example: I want a cell to turn red if it's above $500 (or some other condition). Select relevant selection of cells -> Home Tab -> Styles -> Conditional Formatting -> Highlight Cell Rules<br>
 <b>Editing Excel Conditional Formatting:</b> Conditional Formatting -> Manage Rules<br>
 <h3>Section 7: Inserting Images and Shapes into an Excel Worksheet</h3><br>
-<b>Inserting Images or Excel Shapes:</b>Insert -> Illustrations. (Left click and drag in cell to drop your shape.)<br>
-<i>#TODO Start at 49</i><br>
+<b>Inserting Images or Excel Shapes:</b> Insert -> Illustrations. (Left click and drag in cell to drop your shape.)<br>
+<b>Formatting Excel Shapes:</b> If you click on a shape, some little circular markers will show up. The little white markers will allow you to resize the shape. The little orange markers will allow you to change the thickness. Clicking on the shape will also create a new tab at the top of your screen: Shape Format. Here you can change colours etc.<br>
+<b>Working with Excel SmartArt:</b> Insert -> Illustrations -> SmartArt<br> Selecting one creates the SmartArt Design tab and the Format tab. To change the text: SmartArt Design -> Text Pane (far left). If you hit enter between two text points here, it will create a new shape. Delete the shape by hitting backspace. To add sub-bullets, hit enter, then hit tab. <br>
+<h3>Section 8: Creating Basic Charts in Excel</h3><br>
+<b>Creating an Excel Column Chart:</b> Select data -> Insert tab -> Charts -> Column chart (top left)<br>
+<b>Working with the Excel Chart Ribbon:</b> When you select your graph, you get three icons to the right of it. The first one is about adding/removing chart elements, the next one is about formatting, and the funnel is your filter command. You can also, with the chart selected, use the Chart Design and Format tabs at the top of the screen.<br>
+<b>Adding and Modifying Data on an Excel Chart:</b> Select your chart, go up to Chart Design tab, find the section called Data. Click on Select Data. To change data range, delete existing data range and select new range in your data. Hold down the control key to select non-adjacent data. (There is a bug where sometimes the header of the missing data will still show up in your chart. Just right click on it and choose Format Axis. Then change the Axis type. That should solve it.)<br>
+<i>#TODO Start at 54</i><br>
 
 
 
