@@ -122,11 +122,33 @@ The colours are broken up into Theme Colors and Standard Colors. You can change 
 <b>Working with Excel SmartArt:</b> Insert -> Illustrations -> SmartArt<br> Selecting one creates the SmartArt Design tab and the Format tab. To change the text: SmartArt Design -> Text Pane (far left). If you hit enter between two text points here, it will create a new shape. Delete the shape by hitting backspace. To add sub-bullets, hit enter, then hit tab. <br>
 <h3>Section 8: Creating Basic Charts in Excel</h3><br>
 <b>Creating an Excel Column Chart:</b> Select data -> Insert tab -> Charts -> Column chart (top left)<br>
+Shortcut key F11 with data selected will place the chart on a new chart sheet<br>
 <b>Working with the Excel Chart Ribbon:</b> When you select your graph, you get three icons to the right of it. The first one is about adding/removing chart elements, the next one is about formatting, and the funnel is your filter command. You can also, with the chart selected, use the Chart Design and Format tabs at the top of the screen.<br>
 <b>Adding and Modifying Data on an Excel Chart:</b> Select your chart, go up to Chart Design tab, find the section called Data. Click on Select Data. To change data range, delete existing data range and select new range in your data. Hold down the control key to select non-adjacent data. (There is a bug where sometimes the header of the missing data will still show up in your chart. Just right click on it and choose Format Axis. Then change the Axis type. That should solve it.)<br>
 <b>Formatting an Excel chart:</b> With the chart selected, we get those two new tabs at the top of the screen. On the Cart Design tab, we've got some canned styles. Hover over them to get a preview. You can also go to the Format tab to format any individual part of your graph, e.g., to change colour. You can also go to Home tab for some more formatting options. Select the chart title box (don't click in the box), click in formula (fx) bar, type the = sign. You can now attach that box to a cell or value on the worksheet itself. That way, if the workbook updates, my chart will update with it. Now click on the cell you wish to connect, click enter, and there it is. The data inside the chart is already connected to the spreadsheet, so if you update it in the spreadsheet, it will change on the chart as well. If for some reason the chart title isn't there at all, you can select the chart, go to Chart Design, and on the left there's an option for Add Chart Element. You can also use this to move elements, e.g., legend from bottom to top.<br> 
 <b>Moving a chart to another worksheet:</b> Select chart -> Chart Design -> Move Chart. New Sheet will contain a chart worksheet that only contains the chart. The chart is still connected to the original data.<br>
-<i>#TODO Start at 56</i><br>
+<b>Working with Excel pie charts:</b> Pie charts are best suited for depicting (and by default it does) a single row or column.<br>
+Select data, Insert tab -> Charts -> Pie chart<br>
+Chart Design -> Switch Row/Column can be useful if your chart didn't display correctly.<br>
+Chart Design -> Select Data to charge the chart's data (e.g., if you want different row/column)<br>
+Delete the Chart Data Range and select the new columns/rows you want.<br>
+To label the pie segments: Chart Design -> Add Chart Element (far left) -> Data Labels<br>
+To change those data labels e.g., from value to percentage: Right click on one, choose Format Data Labels<br>
+You can drag out the values if you want and a tail will show up connecting the values to the pie<br>
+<b>Filtering chart data:</b> Filters will allow you to remove content temporarily from the chart.<br>
+Select the Chart -> At Top Right corner of chart you will find the FILTER button.<br>
+<b>Creating chart templates:</b> 
+• Right Click the existing chart – SAVE AS TEMPLATE<br>
+• Give the Chart Template a name and click SAVE.<br>
+By default, the Chart Template will be saved in the Chart Templates folder
+location on your computer.<br>
+To Apply Template: Go to the INSERT tab – CHART OPTIONS – ALL CHARTS – TEMPLATES<br>
+<b>Printing charts:</b>
+An Excel chart can be printed independently of the sheet or with the rest of the
+content on the sheet:<br>
+Chart Only: With the chart selected, go to the FILE tab – PRINT.<br>
+Chart and Worksheet: With the chart NOT selected, go to the FILE tab -- PRINT.<br>
+<i>#TODO Start at 57</i><br>
 
 
 
