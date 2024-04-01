@@ -148,7 +148,12 @@ An Excel chart can be printed independently of the sheet or with the rest of the
 content on the sheet:<br>
 Chart Only: With the chart selected, go to the FILE tab – PRINT.<br>
 Chart and Worksheet: With the chart NOT selected, go to the FILE tab -- PRINT.<br>
-<i>#TODO Start at 57</i><br>
+<p></p>
+<h3>Section 9: Printing an Excel Worksheet</h3>
+<b>Changing the margins, scaling, and orientation:</b>
+Any time you look at File->Print and then go back to your worksheet, a dotted line will show up, representing the page breaks.<br>
+To adjust scaling: Print->No Scaling->Custom Scaling Options. There are two ways to do this: By a percentage ("Adjust to") or a Fit. "Fit to" will shrink (but not increase) your content to a specific amount of pages.<br>
+<i>#TODO Start at 60</i><br>
 
 
 
