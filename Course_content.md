@@ -156,7 +156,12 @@ To adjust scaling: Print->No Scaling->Custom Scaling Options. There are two ways
 To adjust margins: Print -> Page Setup (right at the bottom) -> Margins. Don't go too narrow on the margins. Some desktop printers struggle to print to the edge of the page. 0.25 inch should be fine.<br>
 Page Layout View (to see individual pages) -> View tab -> Workbook views -> Page Layout<br>
 Adding Header and Footer content: Inside Page Layout View. E.g., Same text in header on every page (static text), page number in footer on every page (dynamic text). The header and footer reside in the margins. If you click in there, you see three boxes. For dynamic text, if you click into a box, you will see a Header & Footer tab at the far right of your tabs. Click on that, and you will see a section called Header & Footer Elements. Here you can choose (for example) Page Number. You will then see it says &(page), but as soon as you click out of it, the page number will show up.<br>
-<i>#TODO Start at 64</i><br>
+Printing a specific range of cells: Highlight the part you want to print -> File -> Print -> Under settings where it says "Print Active Sheets", change to "Print Selection".<br> If it's common and you always update the one section, for example, and just want to print that, you can set up a print area:<br>
+Setting up a print area: Select the data that you want to set up as the Print Area -> Home tab -> Page Layout -> Page Setup -> Print Area -> Set Print Area. You do then have the option to ignore the print area, under File -> Print -> Settings -> Print Active Sheets -> Ignore Print Area.<br>
+<p></p>
+<h3>Section 10: Working with Excel Templates</h3>
+Intro to Excel Templates: 
+<i>#TODO Start at 65</i><br>
 
 
 
