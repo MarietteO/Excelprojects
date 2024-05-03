@@ -153,7 +153,10 @@ Chart and Worksheet: With the chart NOT selected, go to the FILE tab -- PRINT.<b
 <b>Changing the margins, scaling, and orientation:</b>
 Any time you look at File->Print and then go back to your worksheet, a dotted line will show up, representing the page breaks.<br>
 To adjust scaling: Print->No Scaling->Custom Scaling Options. There are two ways to do this: By a percentage ("Adjust to") or a Fit. "Fit to" will shrink (but not increase) your content to a specific amount of pages.<br>
-<i>#TODO Start at 60</i><br>
+To adjust margins: Print -> Page Setup (right at the bottom) -> Margins. Don't go too narrow on the margins. Some desktop printers struggle to print to the edge of the page. 0.25 inch should be fine.<br>
+Page Layout View (to see individual pages) -> View tab -> Workbook views -> Page Layout<br>
+Adding Header and Footer content: Inside Page Layout View. E.g., Same text in header on every page (static text), page number in footer on every page (dynamic text). The header and footer reside in the margins. If you click in there, you see three boxes. For dynamic text, if you click into a box, you will see a Header & Footer tab at the far right of your tabs. Click on that, and you will see a section called Header & Footer Elements. Here you can choose (for example) Page Number. You will then see it says &(page), but as soon as you click out of it, the page number will show up.<br>
+<i>#TODO Start at 64</i><br>
 
 
 
