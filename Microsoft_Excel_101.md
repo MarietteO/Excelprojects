@@ -160,8 +160,10 @@ Printing a specific range of cells: Highlight the part you want to print -> File
 Setting up a print area: Select the data that you want to set up as the Print Area -> Home tab -> Page Layout -> Page Setup -> Print Area -> Set Print Area. You do then have the option to ignore the print area, under File -> Print -> Settings -> Print Active Sheets -> Ignore Print Area.<br>
 <p></p>
 <h3>Section 10: Working with Excel Templates</h3>
-Intro to Excel Templates: 
-<i>#TODO Start at 65</i><br>
+Intro to Excel Templates:<br>
+To see existing templates: File -> New. You also have the ability to download existing templates from office.com. If you've saved templates yourself, you will also see a section called "Personal".<br>
+To create own custom templates: File -> Save A Copy -> Browse -> Save as Type -> Excel Template. Will be saved in "Custom Office Templates" folder. When you open it under "Personal", it will automatically create a copy of the template. This means you won't be modifying the template itself.<br>
+
 
 
 
