@@ -11,6 +11,7 @@
 - If there is a command on the ribbon that you use often, you can right-click on it and: Add to Quick Access Toolbar.<br>
 - Right at the bottom of the screen, we have the "status bar".<br>
 - At the bottom right are the "view buttons".<br>
+- Right-clicking on the arrows at the bottom right provides a list of all your sheets.<br>
 - Can save the document as one of several different types, but the default is as an Excel Workbook(.xlsx).<br>
 - <b>Common Excel Shortcut Keys:</b><br>
 Close a spreadsheet Ctrl+W<br>
@@ -163,6 +164,8 @@ Setting up a print area: Select the data that you want to set up as the Print Ar
 Intro to Excel Templates:<br>
 To see existing templates: File -> New. You also have the ability to download existing templates from office.com. If you've saved templates yourself, you will also see a section called "Personal".<br>
 To create own custom templates: File -> Save A Copy -> Browse -> Save as Type -> Excel Template. Will be saved in "Custom Office Templates" folder. When you open it under "Personal", it will automatically create a copy of the template. This means you won't be modifying the template itself.<br>
+<h3>Section 11: Practice What You've Learned</h3>
+<h3>Section 12: Congratulations! You've Built a Solid Microsoft Excel Foundation</h3>
 
 
 
