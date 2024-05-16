@@ -9,6 +9,8 @@ Click into the column you wish to sort -> Data Tab -> Sort Filter -> a->z and z-
 Click into any column in the list -> Data Tab -> Sort Filter -> Big Sort Button -> Opens up custom sort window. Here you can add a secondary level for a secondary sort.<br>
 <b>Using custom sorts in an Excel List:(e.g., sort by month)</b><br>
 Open up custom sort window (as above) -> "Order" -> "Custom List"<br>
+<b>Filter an Excel List using the AutoFilter tool:</b><br>
+Click anywhere in list -> Data Tab -> Sort & Filter -> Big Filter Button -> Now you will see dropdown arrows in your column headers<br>
+To see the whole list again, go to Sort & Filter and hit Clear<br>
 
-
-Start at #74
+Start at #76
