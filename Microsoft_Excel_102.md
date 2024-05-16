@@ -12,5 +12,9 @@ Open up custom sort window (as above) -> "Order" -> "Custom List"<br>
 <b>Filter an Excel List using the AutoFilter tool:</b><br>
 Click anywhere in list -> Data Tab -> Sort & Filter -> Big Filter Button -> Now you will see dropdown arrows in your column headers<br>
 To see the whole list again, go to Sort & Filter and hit Clear<br>
+<b>Creating subtotals in a list:</b><br>
+First sort the column that you wish to find subtotals for -> Click into list -> Data -> Subtotal (on far right)<br>
+This will also give you a grand total down at the bottom.<br>
+Toggle between 1, 2, 3 at the left of your screen to see just subtotals, just grand total or everything. You can also click on the minus sign on the left to hide the details of some of the sections.<br>
 
-Start at #76
+Start at #77
