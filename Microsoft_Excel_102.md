@@ -21,6 +21,10 @@ Toggle between 1, 2, 3 at the left of your screen to see just subtotals, just gr
 Click anywhere in your list -> Home Tab -> Styles -> Format as Table<br>
 Now you also have a new "Design" tab with features like "remove dupicates".<br>
 Design -> Table Style Options -> Total Row. Now you will have a "Total" row at the bottom of your list showing the number of records, but there is a dropdown menu where you can change the function to "Sum" etc.<br>
-To add new rows at the bottom (above "Total"), click on the small black triangle in the corner of the bottom right cell, and drag it down.<br>
-<br> The Total will update as you add new records.<br>
-TODO: Start at 78
+To add new rows at the bottom (above "Total"), click on the small black triangle in the corner of the bottom right cell, and drag it down. The Total will update as you add new records.<br>
+<b>Using Conditional Formatting to Find Duplicates:</b><br>
+Control+Shift+Down Arrow to select the relevant column.<br>
+Home -> Styles -> Conditional Formatting -> Highlight Cell Rules -> Duplicate Values<br>
+<b>Removing Duplicates:</b>
+If your list has been formatted as a table, you have the Design Tab -> (on the far left:)Remove Duplicates<br>
+Otherwise, Data Tab -> Data Tools -> Remove Duplicates
