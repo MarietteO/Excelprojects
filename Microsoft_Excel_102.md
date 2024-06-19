@@ -10,8 +10,8 @@ Click into any column in the list -> Data Tab -> Sort Filter -> Big Sort Button 
 <b>Using custom sorts in an Excel List:(e.g., sort by month)</b><br>
 Open up custom sort window (as above) -> "Order" -> "Custom List"<br>
 <b>Filter an Excel List using the AutoFilter tool:</b><br>
-Click anywhere in list -> Data Tab -> Sort & Filter -> Big Filter Button -> Now you will see dropdown arrows in your column headers<br>
-<br>Note that if you had a "count" function at the bottom to count the number of records, you won't be able to see that result anymore. But you can still manually drag open that cell to see it. However, it will still show the count for the whole list, not for the fitered result.<br>
+Click anywhere in list -> Data Tab -> Sort & Filter -> Big Filter Button -> Now you will see dropdown arrows in your column headers.<br>
+Note that if you had a "count" function at the bottom to count the number of records, you won't be able to see that result anymore. But you can still manually drag open that cell to see it. However, it will still show the count for the whole list, not for the fitered result.<br>
 To see the whole list again, go to Sort & Filter and hit Clear<br>
 <b>Creating subtotals in a list:</b><br>
 First sort the column that you wish to find subtotals for -> Click into list -> Data -> Subtotal (on far right)<br>
@@ -27,4 +27,6 @@ Control+Shift+Down Arrow to select the relevant column.<br>
 Home -> Styles -> Conditional Formatting -> Highlight Cell Rules -> Duplicate Values<br>
 <b>Removing Duplicates:</b>
 If your list has been formatted as a table, you have the Design Tab -> (on the far left:)Remove Duplicates<br>
-Otherwise, Data Tab -> Data Tools -> Remove Duplicates
+Otherwise, Data Tab -> Data Tools -> Remove Duplicates<br>
+<h3>Section 15: Excel List Functions</h3>
+DSUM(): 
