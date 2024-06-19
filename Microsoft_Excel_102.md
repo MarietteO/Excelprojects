@@ -29,4 +29,8 @@ Home -> Styles -> Conditional Formatting -> Highlight Cell Rules -> Duplicate Va
 If your list has been formatted as a table, you have the Design Tab -> (on the far left:)Remove Duplicates<br>
 Otherwise, Data Tab -> Data Tools -> Remove Duplicates<br>
 <h3>Section 15: Excel List Functions</h3>
-DSUM(): 
+<b>DSUM():</b> "Database sum": Summing up only a specific category in a list.<br>
+For example, if you want to sum up the values for the category "Rent", found under a column header called "Category", you can, somewhere to the right of your list, type the following: Category. In the cell below that, type: Rent. Next to Category, you can type the name of the column with the numbers you wish to sum up, for instance Total Sales. Below Total Sales and right of Rent, you can now type: =DSUM() and click on the fx button. This will open up your Argument Window. For "Database", you can select your entire list. For "Field", you can type the cell number where the original "Total Sales" header resides. For "Criteria" you can select the cells to the right where you typed "Database" and "Rent". Hit OK.<br>
+<b>DSUM Function with OR Criteria:</b> 
+I.e., multiple criteria. Just type another category under "Rent", for example "Software". Go back to your formula, click on it, then click on the fx button. Adjust your "Criteria".<br>
+##Start at 83
