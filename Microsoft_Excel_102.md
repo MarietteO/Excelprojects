@@ -39,5 +39,10 @@ You can also include more criteria for either column down below as needed, for e
 <b>Other Database Functions:</b><br>
 DAVERAGE(), DCOUNT(), DCOUNTA() [to count non-numeric cells]<br>
 <b>Excel Function: SUBTOTAL():</b><br>
-This is still a database function, i.e., something you work with inside of a vertical list.<br> tbc...
+This is still a database function, i.e., something you work with inside of a vertical list.<br> 
+Type SUBTOTAL() and click on fx to open the Argument Window.<br>
+Function_num wants to know the kind of function you want to subtotal, e.g, average, count, etc. Click on "Help" to see the number relating to your specific function.<br>
+Ref1 is asking for the range of cells you wish to subtotal.<br>
+Now, if you filter the list by, for example, Division, the subtotal will update to only reflect your filtered list.<br>
+##START AT Section 16
 
