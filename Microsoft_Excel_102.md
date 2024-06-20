@@ -36,6 +36,8 @@ I.e., multiple criteria under the same column (in this case, "Category"). Just t
 <b>DSUM Function with AND Criteria:</b><br>
 I.e., criteria from different columns. Add the name of the new column next to "Category" where you typed it on the right. For example, "Division". And underneath that, type the relevant division to consider, for example, "North". Click on your formula, click on fx, and change your criteria to include both column headers as well as the text underneath.<br>
 You can also include more criteria for either column down below as needed, for example "North" (again) and "Software" (i.e., using both "AND" and "OR" statements together).<br>
-<b>Excel Function: DAVERAGE():</b><br>
-The calculation provides an average.<br>
+<b>Other Database Functions:</b><br>
+DAVERAGE(), DCOUNT(), DCOUNTA() [to count non-numeric cells]<br>
+<b>Excel Function: SUBTOTAL():</b><br>
+This is still a database function, i.e., something you work with inside of a vertical list.<br> tbc...
 
