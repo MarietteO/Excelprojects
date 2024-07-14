@@ -44,5 +44,10 @@ Type SUBTOTAL() and click on fx to open the Argument Window.<br>
 Function_num wants to know the kind of function you want to subtotal, e.g, average, count, etc. Click on "Help" to see the number relating to your specific function.<br>
 Ref1 is asking for the range of cells you wish to subtotal.<br>
 Now, if you filter the list by, for example, Division, the subtotal will update to only reflect your filtered list.<br>
-##START AT Section 16
+
+<h3>Section 16: Excel Data Validation</h3>
+This controls how the user enters data, for example within a certain range.<br>
+<b>Creating an Excel Data Validation List:</b> Select the range of cells that you wish to apply the validation to -> Data Tab -> Data Tools -> Data Validation -> Data Validation (again). This opens the Data Validation window. Settings -> Allow -> List. Now, under Source, you can type the list that you want people to pick from, separated by commas (semi-colons in some regions).<br>
+
+##START AT 89
 
