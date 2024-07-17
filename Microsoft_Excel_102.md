@@ -47,7 +47,8 @@ Now, if you filter the list by, for example, Division, the subtotal will update 
 
 <h3>Section 16: Excel Data Validation</h3>
 This controls how the user enters data, for example within a certain range.<br>
-<b>Creating an Excel Data Validation List:</b> Select the range of cells that you wish to apply the validation to -> Data Tab -> Data Tools -> Data Validation -> Data Validation (again). This opens the Data Validation window. Settings -> Allow -> List. Now, under Source, you can type the list that you want people to pick from, separated by commas (semi-colons in some regions).<br>
+<b>Creating an Excel Data Validation List (most common use of Data Validation):</b> Select the range of cells that you wish to apply the validation to -> Data Tab -> Data Tools -> Data Validation -> Data Validation (again). This opens the Data Validation window. Settings -> Allow -> List. Now, under Source, you can type the list that you want people to pick from, separated by commas (semi-colons in some regions).<br>
+<b>Data Validation: Numeric Range:</b> Settings -> Allow -> Decimals<br> 
 
-##START AT 89
+##START AT 90
 
