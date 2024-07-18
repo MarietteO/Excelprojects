@@ -50,6 +50,7 @@ This controls how the user enters data, for example within a certain range.<br>
 <b>Creating an Excel Data Validation List (most common use of Data Validation):</b> Select the range of cells that you wish to apply the validation to -> Data Tab -> Data Tools -> Data Validation -> Data Validation (again). This opens the Data Validation window. Settings -> Allow -> List. Now, under Source, you can type the list that you want people to pick from, separated by commas (semi-colons in some regions).<br>
 <b>Data Validation: Numeric Range:</b> Settings -> Allow -> Decimals<br> 
 <b>Adding a Custom Excel Data Validation Error:</b> Under Data Validation, this time, select "Error Alert" (rather than "Settings"). Choose a "Style", create a title and create an error message. The "Warning" style allows the user to override the suggested answers. The "Stop" style doesn't allow that.<br>
+<b>Dynamic Formulas by Using Excel Data Validation Techniques:</b> You can also use Data Validation outside of a list. You can also combine Data Validation with functions. For example, a dropdown list for your Category if you're trying to work out a subtotal. You can type out the options on your worksheet somewhere. Then, under Settings -> Source, instead of typing it out there, you can just reference the range of cells (by selecting it).<br>
 
-##START AT 91
+##START AT 92
 
