@@ -49,6 +49,7 @@ Now, if you filter the list by, for example, Division, the subtotal will update 
 This controls how the user enters data, for example within a certain range.<br>
 <b>Creating an Excel Data Validation List (most common use of Data Validation):</b> Select the range of cells that you wish to apply the validation to -> Data Tab -> Data Tools -> Data Validation -> Data Validation (again). This opens the Data Validation window. Settings -> Allow -> List. Now, under Source, you can type the list that you want people to pick from, separated by commas (semi-colons in some regions).<br>
 <b>Data Validation: Numeric Range:</b> Settings -> Allow -> Decimals<br> 
+<b>Adding a Custom Excel Data Validation Error:</b> Under Data Validation, this time, select "Error Alert" (rather than "Settings"). Choose a "Style", create a title and create an error message. The "Warning" style allows the user to override the suggested answers. The "Stop" style doesn't allow that.<br>
 
-##START AT 90
+##START AT 91
 
