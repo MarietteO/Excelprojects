@@ -52,5 +52,10 @@ This controls how the user enters data, for example within a certain range.<br>
 <b>Adding a Custom Excel Data Validation Error:</b> Under Data Validation, this time, select "Error Alert" (rather than "Settings"). Choose a "Style", create a title and create an error message. The "Warning" style allows the user to override the suggested answers. The "Stop" style doesn't allow that.<br>
 <b>Dynamic Formulas by Using Excel Data Validation Techniques:</b> You can also use Data Validation outside of a list. You can also combine Data Validation with functions. For example, a dropdown list for your Category if you're trying to work out a subtotal. You can type out the options on your worksheet somewhere. Then, under Settings -> Source, instead of typing it out there, you can just reference the range of cells (by selecting it).<br>
 
-##START AT 92
-
+<h3>Section 17: Importing and Exporting Data</h3>
+<b>Importing Data from Text Files into Excel:</b> Tab-delimited or comma-separated document in Notepad.<br>
+Data Tab -> Get and Transform Data -> Get Data -> From File -> From Text/CSV. Now you can click on "Power Query" to clean up the data etc, or just click on Load -> Load To -> Table.<br>
+Your data will still be connected to the original Notepad document. So if the doc is updated, your Excel file will also be updated once you refresh it.<br> 
+<b>Importing Data from a Microsoft Access Database:</b> ##TODO<br>
+<p></p>
+##START AT 96
