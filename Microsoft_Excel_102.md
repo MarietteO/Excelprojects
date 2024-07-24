@@ -57,6 +57,10 @@ This controls how the user enters data, for example within a certain range.<br>
 Data Tab -> Get and Transform Data -> Get Data -> From File -> From Text/CSV. Now you can click on "Power Query" to clean up the data etc, or just click on Load -> Load To -> Table.<br>
 Your data will still be connected to the original Notepad document. So if the doc is updated, your Excel file will also be updated once you refresh it.<br> 
 <b>Importing Data from a Microsoft Access Database:</b> Data -> Get Data -> From Database -> Microsoft Access Database -> (you must have the file saved on your computer). Excel will give you a list of queries (icon: two boxes overlapping) and tables. Note that some of the formatting will not transition over into Excel. Load -> Load To -> Existing Worksheet. Keep in mind this is a connected document. If someone updates the Access Database, you can click on your Excel document -> Table Design Tab -> Refresh and you would get the updated data.<br>
-<b>Microsoft Excel Legacy Import Options for New Excel Versions:</b> IF you want to rather use the older legacy import options, you can do: Data Tab -> Get Data -> Legacy Wizards BUT you first have to turn on this option inside your Excel options: File -> Options -> Data -> Show Legacy Data Import Wizards-> Turn on both the Access and Text Legacy wizards.
+<b>Microsoft Excel Legacy Import Options for New Excel Versions:</b> IF you want to rather use the older legacy import options, you can do: Data Tab -> Get Data -> Legacy Wizards BUT you first have to turn on this option inside your Excel options: File -> Options -> Data -> Show Legacy Data Import Wizards-> Turn on both the Access and Text Legacy wizards.<br>
+<b>Exporting Data to a Text File:</b> File -> Export -> Change File Type -> Other File Types -> Text. You can't save a whole workbook like this, just the active sheet.<br>
 
-##START AT 98
+<h3>Excel PivotTables</h3>
+<b>Understanding Excel PivotTables:</b> PivotTables are new tables created from selected data in other, more extensive tables. You can use it to see, for example, how many sales of each item happened in a specific month.<br>
+
+##START AT 101
