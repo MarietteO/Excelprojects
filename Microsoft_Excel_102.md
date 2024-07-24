@@ -60,7 +60,7 @@ Your data will still be connected to the original Notepad document. So if the do
 <b>Microsoft Excel Legacy Import Options for New Excel Versions:</b> IF you want to rather use the older legacy import options, you can do: Data Tab -> Get Data -> Legacy Wizards BUT you first have to turn on this option inside your Excel options: File -> Options -> Data -> Show Legacy Data Import Wizards-> Turn on both the Access and Text Legacy wizards.<br>
 <b>Exporting Data to a Text File:</b> File -> Export -> Change File Type -> Other File Types -> Text. You can't save a whole workbook like this, just the active sheet.<br>
 
-<h3>Excel PivotTables</h3>
+<h3>Section 18: Excel PivotTables</h3>
 <b>Understanding Excel PivotTables:</b> PivotTables are new tables created from selected data in other, more extensive tables. You can use it to see, for example, how many sales of each item happened in a specific month.<br>
 
 ##START AT 101
