@@ -62,5 +62,11 @@ Your data will still be connected to the original Notepad document. So if the do
 
 <h3>Section 18: Excel PivotTables</h3>
 <b>Understanding Excel PivotTables:</b> PivotTables are new tables created from selected data in other, more extensive tables. You can use it to see, for example, how many sales of each item happened in a specific month.<br>
-
+<b>Creating an Excel PivotTable: </b>You can create a pivot table using the range of the original list, but then, when the original list updates, the pivot table will no longer be accurate.<br>
+Another way to do it is to format the original list as a table and then use the table name inside the pivot table reference. This way when the original table updates, the pivot table will update with it:<br>
+To format original list as table: Click anywhere in the list -> Home Tab -> Styles -> Format as Table -> Pick any style -> Click OK<br> 
+To find table name: Click in the table -> Table Design Tab -> Properties (on the left) -> Table name<br>
+To create pivot table: Click into table -> Insert Tab -> PivotTable<br>
+Under Table Range, insert name of Table, then choose where you wish to place the pivot table. (Ignore the other options for now. They have to do with Power Pivot etc.)<br>
+Now, on the left, you will see the beginning portions of your pivot table, and on the right, you will see where you need to enter the Pivot Table fields. You also have two new tabs at the top of the screen: PivotTable Analyze, and Design.<br>
 ##START AT 101
