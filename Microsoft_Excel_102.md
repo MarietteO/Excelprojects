@@ -69,4 +69,6 @@ To find table name: Click in the table -> Table Design Tab -> Properties (on the
 To create pivot table: Click into table -> Insert Tab -> PivotTable<br>
 Under Table Range, insert name of Table, then choose where you wish to place the pivot table. (Ignore the other options for now. They have to do with Power Pivot etc.)<br>
 Now, on the left, you will see the beginning portions of your pivot table, and on the right, you will see where you need to enter the Pivot Table fields. You also have two new tabs at the top of the screen: PivotTable Analyze, and Design.<br>
+On the right, you can drag your pivot table fields into one of the four sections below:<br>
+Filters: 
 ##START AT 101
